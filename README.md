@@ -1,2 +1,1 @@
-# Diabetes-Detection-System
-asdfghjkkll qqwertyy
+#JavaScript-Practice
